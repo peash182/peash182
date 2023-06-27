@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mehedi Hasan Peas
+- 👀 I’m interested in Data Science and Remote sensing
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ML
+- 📫 Reach me at mehedi.inc@gmail.com and alt1.mehedi.inc@gmail.com
